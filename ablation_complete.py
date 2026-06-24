@@ -1,7 +1,5 @@
 # ================================================================
 # COMPLETE ABLATION STUDY — SELF-CONTAINED CELL
-# Run this as a SINGLE NEW CELL anywhere in your Kaggle notebook.
-# No prior variables needed — everything is defined inside.
 # ================================================================
 
 import os, torch, torch.nn as nn, torch.optim as optim
